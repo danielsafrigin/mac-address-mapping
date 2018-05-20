@@ -1,0 +1,7 @@
+Time,ID,Lat,Lon,Alt,#WiFi networks (up to 10),SSID1,MAC1,Frequncy1,Signal1,SSID2,MAC2,Frequncy2,Signal2,SSID3,MAC3,Frequncy3,Signal3,SSID4,MAC4,Frequncy4,Signal4,SSID5,MAC5,Frequncy5,Signal5,SSID6,MAC6,Frequncy6,Signal6,SSID7,MAC7,Frequncy7,Signal7,SSID8,MAC8,Frequncy8,Signal8,SSID9,MAC9,Frequncy9,Signal9,SSID10,MAC10,Frequncy10,Signal10
+2017-10-29 00:46:05,Redmi 4A,32.10253144,35.19986089,645,Home 53434570 dnipro DIRECT-E0-HP DeskJet 3830 series DIRECT-04M2070 Series ariel heights  HOTBOX-3DE7 HOT mobile,Home,cc:b2:55:90:f5:99,1,-38,53434570,10:be:f5:3b:87:44,7,-60,dnipro,c4:12:f5:80:d4:68,1,-76,DIRECT-E0-HP DeskJet 3830 series,dc:4a:3e:c5:1f:15,11,-81,DIRECT-04M2070 Series,32:cd:a7:ee:79:a9,11,-83,ariel heights,e8:cc:18:ed:d9:14,6,-83,,00:02:6f:8e:64:67,1,-84,HOTBOX-3DE7,e0:ce:c3:1a:3d:ed,11,-86,HOT mobile,42507_7213_5475842,0,-113
+2017-10-29 00:46:08,Redmi 4A,32.10266181,35.19996291,661,SETUP,SETUP,52:d1:c2:e9:d1:63,11,-87
+2017-10-29 00:46:29,Redmi 4A,32.10260648,35.19992141,656,beni,beni,90:8d:78:52:78:4b,1,-85
+2017-10-29 00:48:06,Redmi 4A,32.10252194,35.19984501,663,Home,Home,cc:b2:55:90:f5:99,1,-33
+2017-10-29 18:09:41,Redmi 4A,32.10251088,35.19986611,653,DIRECT-E0-HP DeskJet 3830 series BezeqFree BezeqFree,DIRECT-E0-HP DeskJet 3830 series,dc:4a:3e:c5:1f:15,11,-73,BezeqFree,62:8d:78:52:78:48,1,-83,BezeqFree,14:af:db:c9:f7:6a,8,-87
+2017-10-29 18:09:43,Redmi 4A,32.1024614,35.19987051,655,beni,beni,90:8d:78:52:78:4b,1,-84
