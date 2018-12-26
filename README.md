@@ -1,12 +1,8 @@
-# year2-sm1-oop
-project for my oop course
-
-## OOP Project
-The main purpose of this project is to develop complex system that you need to keep working on.<br>
-doing so makes you understand the importance of clean and good code.<br>
-in the this project we build a system that allows you to analyze wifi information.<br>
+## about
+The main purpose of this project is to allowe you to get your location information based on mac addresses.<br>
+in the this project we build a system that allows you to analyze wifi information to get said data.<br>
 for example your input is a file of wifi scans in your city, then you can filter the data or even export it to kml file.<br>
-(files which google maps can read and transfer represent as dots)<br>
+(files which google maps can read and represent as dots)<br>
 
 ### Libraries:<br>
 JAK - https://labs.micromata.de/projects/jak/download.html to write a KML file(to use in Google Earth).<br>
@@ -20,7 +16,7 @@ Instructions:<br>
 Genrate procceseed csv file by giveing a folder path containing wigle files (via CsvFileProcessing object).<br>
 Genrate procceseed kml file by giveing a procceseed csv file path (via ExportToKml object).<br>
 
-###data objects:<br>
+### data objects:<br>
 data base - data base containing a list of samples and a list of filters wifi sample - sample containing time, lat, lon, alt, phone id and a list of wifi spots wifi spot - spot containing ssid, mac, freq and signal<br>
 
 ### filter:<br>
