@@ -1,5 +1,5 @@
 ## about
-The main purpose of this project is to allowe you to get your location information based on mac addresses.<br>
+The main purpose of this project is to allow you to get your location information based on mac addresses.<br>
 in the this project we build a system that allows you to analyze wifi information to get said data.<br>
 for example your input is a file of wifi scans in your city, then you can filter the data or even export it to kml file.<br>
 (files which google maps can read and represent as dots)<br>
