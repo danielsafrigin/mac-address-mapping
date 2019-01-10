@@ -66,4 +66,4 @@ open cmd go to project folder, write build gradle and run gradle.<br>
 
 ### Gui Instructions:<br>
 
-https://i.imgur.com/BIYVs2E.png
+![Gui Instructions](https://i.imgur.com/BIYVs2E.png)
